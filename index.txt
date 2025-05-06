@@ -17,7 +17,6 @@ Home.
 About.
 Skills.
 Portfolio.
-Contact.
 
 
 
@@ -46,7 +45,7 @@ Scroll
 alt = Badge icon
 
 12+
-Years of Experience that goes from Logistics through Finance and lately in the Tech Industry
+Years of Experience that goes from Logistics through Finance and lately in the Tech Industry.
 
 <ion-icon name="chevron-forward-outline"></ion-icon>
 
@@ -57,8 +56,6 @@ Completed Projects, but for data protection I can't share any data related to th
 
 alt = Peoples rating icon
 
-95+
-Happy Clients
 
 
 
@@ -68,15 +65,13 @@ alt = A man in a alice blue shirt with a thinking expression
 
 About me
 
-Quién es Antonio?
+Who is Antonio?
 
-Soy un apasionado primero por la música, aclaro escuchar música, ya que por más que he intentado tocar la guitarra no he podido, (mentiras si), pero no al nivel de Satriani, Santana o Jimmy Hendrix hahaha.
-Me encantan los idiomas, fue mi gran pasión durante varios años de mi vida, aprendí a hablar inglés, francés, portugues y Alemán, pero ahora por cuestiones laborales y de escaso tiempo solo uso el inglés, 
-por lo que mis habilidades en los otros ha disminuido notablemente, no los he olvidado, pero si me cuesta mas armar frases que antes me parecían muy fáciles, pero no es nada que no se pueda ganar de vuelta
-con un poco de práctica constante.
-Yo siempre fui muy dado con la tecnología, ya que desde muy chico, mi papá me llevaba ordenadores de mesa con juegos en disquettes de 3.14 wow se imaginan? y me colocaba a hacer cosas en la pc para matar el 
-tiempo, el me enseñó a escribir sin mirar el teclado y tambien a digitar los números de la misma manera, gracias pa, por inculcarme hábitos positivos, eso y también el de la lectura y la educación, ya que nunca
-me canso de estudiar ni aprender cosas nuevas a diario.
+I am passionate, first and foremost, about music—listening to music, to be clear. Despite my attempts to play the guitar, I haven’t quite mastered it (well, maybe a little), but certainly not at the level of Satriani, Santana, or Jimi Hendrix hahaha.
+
+I love languages; they were my great passion for several years of my life. I learned to speak English, French, Portuguese, and German, but now, due to work and limited time, I only use English. As a result, my skills in the other languages have declined noticeably. I haven’t forgotten them, but it’s harder for me to form sentences that used to feel very easy. However, it’s nothing that can’t be regained with a bit of consistent practice.
+
+I’ve always been very tech-savvy, as from a young age, my dad would bring home desktop computers with games on 3.14-inch floppy disks—wow, can you imagine? He would set me up with tasks on the PC to pass the time. He taught me how to type without looking at the keyboard and also how to input numbers the same way. Thanks, Dad, for instilling positive habits in me—like that and also the love of reading and education. Because of you, I never get tired of studying or learning new things every day.
 
 Hire me
 
@@ -152,50 +147,7 @@ Load more work
 
 
 
-# CONTACT
 
-Contact
-
-Have You Any Project? Please Drop a Message
-
-Get in touch and let me know how i can help. Fill out the form and i’ll be in touch as soon as possible.
-
-<ion-icon name="location-outline"></ion-icon>
-Address:
-941 Saqrqorish Road, alandalos, grnata, wa 47122-4194
-
-<ion-icon name="call-outline"></ion-icon>
-Phone:
-(01) 234 567 789
-(09) 765 432 200
-
-<ion-icon name="mail-outline"></ion-icon>
-Email:
-info@jack.com
-support@jack.com
-
-<ion-icon name="logo-facebook"></ion-icon>
-<ion-icon name="logo-twitter"></ion-icon>
-<ion-icon name="logo-linkedin"></ion-icon>
-<ion-icon name="logo-youtube"></ion-icon>
-
-Name
-<ion-icon name="person-circle"></ion-icon>
-placeholder = e.g John Doe
-
-Email
-<ion-icon name="mail"></ion-icon>
-placeholder = e.g johndoe@mail.com
-
-Phone
-<ion-icon name="call"></ion-icon>
-placeholder = Phone Number
-
-Message
-<ion-icon name="chatbubbles"></ion-icon>
-placeholder = Write message...
-
-Send
 
 
 
