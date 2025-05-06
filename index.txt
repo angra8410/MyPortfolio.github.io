@@ -1,0 +1,214 @@
+Antonio - Personal Portfolio
+
+# HEADER
+
+Antonio Gutierrez.
+
+En
+Ar
+
+aria-label = Change Theme
+title = Change Theme
+
+aria-label = Toggle Menu
+title = Toggle Menu
+
+Home.
+About.
+Skills.
+Portfolio.
+Contact.
+
+
+
+# HERO
+
+alt = A man in a blue shirt with a happy expression
+
+
+Get in touch
+
+<ion-icon name="logo-facebook"></ion-icon>
+Facebook
+
+<ion-icon name="logo-twitter"></ion-icon>
+Twitter
+
+<ion-icon name="logo-linkedin"></ion-icon>
+Linkedin
+
+Scroll
+
+
+
+# STATS
+
+alt = Badge icon
+
+12+
+Years of Experience that goes from Logistics through Finance and lately in the Tech Industry
+
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+alt = Checkmark icon
+
+4+
+Completed Projects, but for data protection I can't share any data related to them. I am working arranging personal projects to showcase my skills in the data field.
+
+alt = Peoples rating icon
+
+95+
+Happy Clients
+
+
+
+# ABOUT
+
+alt = A man in a alice blue shirt with a thinking expression
+
+About me
+
+Quién es Antonio?
+
+Soy un apasionado primero por la música, aclaro escuchar música, ya que por más que he intentado tocar la guitarra no he podido, (mentiras si), pero no al nivel de Satriani, Santana o Jimmy Hendrix hahaha.
+Me encantan los idiomas, fue mi gran pasión durante varios años de mi vida, aprendí a hablar inglés, francés, portugues y Alemán, pero ahora por cuestiones laborales y de escaso tiempo solo uso el inglés, 
+por lo que mis habilidades en los otros ha disminuido notablemente, no los he olvidado, pero si me cuesta mas armar frases que antes me parecían muy fáciles, pero no es nada que no se pueda ganar de vuelta
+con un poco de práctica constante.
+Yo siempre fui muy dado con la tecnología, ya que desde muy chico, mi papá me llevaba ordenadores de mesa con juegos en disquettes de 3.14 wow se imaginan? y me colocaba a hacer cosas en la pc para matar el 
+tiempo, el me enseñó a escribir sin mirar el teclado y tambien a digitar los números de la misma manera, gracias pa, por inculcarme hábitos positivos, eso y también el de la lectura y la educación, ya que nunca
+me canso de estudiar ni aprender cosas nuevas a diario.
+
+Hire me
+
+Download cv
+
+
+
+# SKILLS
+
+My skills
+
+What My Programming Skills Included?
+
+I can develop relational databases using sql softwares, I can also develop data models using power query, power bi and tableau for data viz.
+
+Skills
+Tools
+
+Microsoft Excel
+alt = Excel logo
+
+Power Bi
+alt = POwer bi logo
+
+Power Query
+alt = Power Query logo
+
+R
+alt = R logo
+
+Tableau
+alt = Tableau logo
+
+SASS
+alt = SASS logo
+
+
+
+
+
+# WOKRS
+
+My Works
+
+Here you will be able to take a look at my personal projects, I'm sure they Will Amaze You!
+
+
+We develop the best quality website that serves for the long-term. Well-documented, clean, easy and elegant interface helps any non-technical clients.
+
+alt = A macintosh on a yellow background.
+Lorem Ipsum Dolor 01
+April 2022
+
+alt = On a Blue background, a Wacom and a mouse.
+Lorem Ipsum Dolor 02
+
+alt = A Cassette tape on a mellow apricot background.
+Lorem Ipsum Dolor 03
+
+alt = Blue digital watch on a dark liver background.
+Lorem Ipsum Dolor 04
+
+alt = On a dark liver background, Airport luggage car carrying a luggage.
+Lorem Ipsum Dolor 05
+
+alt = On a yellow background, a digital watch and a glass.
+Lorem Ipsum Dolor 06
+
+alt = A fujifilm instant camera on a dark electric blue background.
+Lorem Ipsum Dolor 07
+
+Load more work
+
+
+
+# CONTACT
+
+Contact
+
+Have You Any Project? Please Drop a Message
+
+Get in touch and let me know how i can help. Fill out the form and i’ll be in touch as soon as possible.
+
+<ion-icon name="location-outline"></ion-icon>
+Address:
+941 Saqrqorish Road, alandalos, grnata, wa 47122-4194
+
+<ion-icon name="call-outline"></ion-icon>
+Phone:
+(01) 234 567 789
+(09) 765 432 200
+
+<ion-icon name="mail-outline"></ion-icon>
+Email:
+info@jack.com
+support@jack.com
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+Name
+<ion-icon name="person-circle"></ion-icon>
+placeholder = e.g John Doe
+
+Email
+<ion-icon name="mail"></ion-icon>
+placeholder = e.g johndoe@mail.com
+
+Phone
+<ion-icon name="call"></ion-icon>
+placeholder = Phone Number
+
+Message
+<ion-icon name="chatbubbles"></ion-icon>
+placeholder = Write message...
+
+Send
+
+
+
+# FOOTER
+
+Jack.
+
+&copy; 2022 codewithsadee. All rights reserved
+
+
+
+# GO TO TOP
+
+title = Go to Top
+
+<ion-icon name="arrow-up"></ion-icon>
